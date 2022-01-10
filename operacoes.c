@@ -1,7 +1,7 @@
 #include "opecacoes.h"
 
 float soma(float a, float b){
-    return a + b;
+    return (a + b);
 }
 
 float subtracao(float a, float b){
@@ -11,3 +11,5 @@ float subtracao(float a, float b){
 float multiplicacao(float a, float b){
     return a * b;
 }
+
+int funcao_auxiliar();

@@ -1,10 +1,7 @@
 #include <stdio.h>
+#include "opecacoes.h"
 
-float soma(float a, float b){
-    return a + b;
-}
-
-int int main(int argc, char const *argv[])
+int main(int argc, char const *argv[])
 {
     printf("Hello World!\n");
     return 0;
